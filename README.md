@@ -29,7 +29,7 @@ import cv2
 
 结果如图：未见报错，说明配置成功
 
-![image](image\\20200612115040.png)
+![image](image/20200612115040.png)
 
 第三步，安装uiautomator2
 
