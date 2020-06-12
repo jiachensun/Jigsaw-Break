@@ -51,7 +51,7 @@ python -m weditor
 
 会在默认浏览器上打开如图页面：
 
-![image](image\20200612133645.png)
+![image](image/20200612133645.png)
 
 ###### 运行脚本
 
@@ -71,7 +71,7 @@ python -m weditor
 
 ##  效果
 
-![image](image\1.gif)
+![image](image/1.gif)
 
 #### 原理
 1、图形图像处理（图形比对）  
@@ -79,15 +79,15 @@ python -m weditor
 
 ###### 第一步，截屏  
 
-![image](image\1.png)
+![image](image/1.png)
 
 ###### 第二步，找到滑块图形，裁剪（需提前完成）  
 
-![image](image\2.png)
+![image](image/2.png)
 
 ###### 第三步，图形比对  
 
-![image](image\3.png)
+![image](image/3.png)
 
 **绿色框标记了比对结果**  
 
@@ -101,15 +101,15 @@ python -m weditor
 
 ###### 第一步，截屏  
 
-![image](image\4.png)
+![image](image/4.png)
 
 ###### 第二步，找到滑块图形，裁剪  
 
-![image](image\5.png)
+![image](image/5.png)
 
 ###### 第三步，图形比对  
 
-![image](image\6.png)
+![image](image/6.png)
 
 **绿色框标记了比对结果，可以成功找到滑块位置**
 
@@ -118,4 +118,4 @@ python -m weditor
 ###### 第五步，模拟手势，滑动滑块 
 
 #### 效果
-![image](image\2.gif)
+![image](image/2.gif)
