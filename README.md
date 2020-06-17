@@ -1,4 +1,8 @@
-opencv+python+uiautomator2 滑动拼图验证码破解，滑动验证码破解，自我娱乐，仅供参考
+opencv+python+uiautomator2 移动端验证码，验证码破解，滑动拼图验证码破解，滑动验证码破解，自我娱乐，仅供参考
+
+## 效果
+
+![image](image/2.gif)
 
 ## 使用
 
